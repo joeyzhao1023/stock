@@ -99,3 +99,11 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+spider/migrations/0001_initial.py
+spider/migrations/__init__.py
+spider/models.py
+spider/templates/index.html
+spider/templates/index.html
+spider/tool/utility.py
+spider/views.py
+spider/__init__.py
